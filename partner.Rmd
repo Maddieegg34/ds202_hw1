@@ -1,0 +1,15 @@
+3)
+
+Shellie Jurchisin, username: shelliej
+
+The owner most recently added the hw1.Rmd and hw1.html files, and the ID was fad79f1 by the username Maddieegg34
+
+[Owner's hw1.Rmd link](https://github.com/Maddieegg34/ds202_hw1/commit/fad79f1f9242e83965ba3beca0bd32030bab1580#diff-645db45d120ed05d80dd1f0d8b0f6191f7318437c4243665f9c4a928665b866e)
+
+[Owner's hw1.html link](https://github.com/Maddieegg34/ds202_hw1/blob/main/hw1.html)
+
+I was able to do the following without error.
+
+I had trouble figuring out how to knit both of her files into my own RMarkdown.  
+
+https://github.com/Maddieegg34/ds202_hw1.git
